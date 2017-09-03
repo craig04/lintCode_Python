@@ -1,1 +1,2 @@
-# lintCode_Python
+Good Questions:
+162 SetZeros
