@@ -6,3 +6,4 @@
 - 084 - Single Number III
 - 101 - Remove Duplicates
 - 162 - Set Zeros
+- 401 - Kth Smallest
