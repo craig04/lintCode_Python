@@ -5,5 +5,7 @@
 - 077 - Longest Common Subsequence
 - 084 - Single Number III
 - 101 - Remove Duplicates
+- 117 - Jump
 - 162 - Set Zeros
+- 166 - Nth to Last
 - 401 - Kth Smallest

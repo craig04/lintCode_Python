@@ -13,9 +13,7 @@ class Solution:
     def __combine(self, candidates, target, l, s, i, result):
         if i == len(candidates) or s >= target:
             if s == target:
-                lst = list(l)
-                lst.sort()
-                result.add(tuple(lst))
+                result.add(tuple(sorted(l)))
             return
         self.__combine(candidates, target, l, s, i + 1, result)
         l.append(candidates[i])
