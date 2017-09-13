@@ -8,4 +8,7 @@
 - 117 - Jump
 - 162 - Set Zeros
 - 166 - Nth to Last
+- 205 - Interval Min Number
+- 206 - Interval Sum
+- 207 - Interval Sum with Modification
 - 401 - Kth Smallest
