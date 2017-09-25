@@ -6,9 +6,15 @@
 - 084 - Single Number III
 - 101 - Remove Duplicates
 - 117 - Jump
+- 125 - Back Pack II
+- 130 - Heapify
+- 159 - Find Min
+- 160 - Find Min
 - 162 - Set Zeros
 - 166 - Nth to Last
 - 205 - Interval Min Number
 - 206 - Interval Sum
 - 207 - Interval Sum with Modification
 - 401 - Kth Smallest
+- 436 - Max Square
+- 437 - Copy Books
