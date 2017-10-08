@@ -19,4 +19,5 @@
 - 436 - Max Square
 - 437 - Copy Books
 - 616 - Find Order
+- 622 - Can Cross
 - 698 - Max Diff
